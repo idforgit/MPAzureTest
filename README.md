@@ -1,0 +1,2 @@
+# MPAzureTest
+Azure Training 
